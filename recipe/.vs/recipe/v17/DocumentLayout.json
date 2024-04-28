@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\internship\\recipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\services\\iactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\services\\iactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\enums\\recipecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\enums\\recipecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|c:\\internship\\recipe\\recipe\\models\\uploadrecipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9488446-EED4-422A-9C52-4BF5249156EC}|recipe\\recipe.csproj|solutionrelative:recipe\\models\\uploadrecipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Program.cs",
+              "RelativeDocumentMoniker": "recipe\\Program.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Program.cs",
+              "RelativeToolTip": "recipe\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:43:30.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "recipe\\Services\\CommentService.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Services\\CommentService.cs",
+              "RelativeToolTip": "recipe\\Services\\CommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:39:57.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActivityService.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Services\\IActivityService.cs",
+              "RelativeDocumentMoniker": "recipe\\Services\\IActivityService.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Services\\IActivityService.cs",
+              "RelativeToolTip": "recipe\\Services\\IActivityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:39:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Services\\ActivityService.cs",
+              "RelativeDocumentMoniker": "recipe\\Services\\ActivityService.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Services\\ActivityService.cs",
+              "RelativeToolTip": "recipe\\Services\\ActivityService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:39:49.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\appsettings.json",
+              "RelativeDocumentMoniker": "recipe\\appsettings.json",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\appsettings.json",
+              "RelativeToolTip": "recipe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T12:37:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appDbContext.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\context\\appDbContext.cs",
+              "RelativeDocumentMoniker": "recipe\\context\\appDbContext.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\context\\appDbContext.cs",
+              "RelativeToolTip": "recipe\\context\\appDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:37:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "recipe\\Controllers\\ActivityController.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "recipe\\Controllers\\ActivityController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAwwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:54:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "recipe\\appsettings.Development.json",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\appsettings.Development.json",
+              "RelativeToolTip": "recipe\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T12:37:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentModel.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Models\\CommentModel.cs",
+              "RelativeDocumentMoniker": "recipe\\Models\\CommentModel.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Models\\CommentModel.cs",
+              "RelativeToolTip": "recipe\\Models\\CommentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:30:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Models\\CommentDto.cs",
+              "RelativeDocumentMoniker": "recipe\\Models\\CommentDto.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Models\\CommentDto.cs",
+              "RelativeToolTip": "recipe\\Models\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:30:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipeModel.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Models\\RecipeModel.cs",
+              "RelativeDocumentMoniker": "recipe\\Models\\RecipeModel.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Models\\RecipeModel.cs",
+              "RelativeToolTip": "recipe\\Models\\RecipeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:25:44.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecipeCategory.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Enums\\RecipeCategory.cs",
+              "RelativeDocumentMoniker": "recipe\\Enums\\RecipeCategory.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Enums\\RecipeCategory.cs",
+              "RelativeToolTip": "recipe\\Enums\\RecipeCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:04:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "recipe\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "recipe\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:01:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "recipe\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "recipe\\Controllers\\RecipeController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAowHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:35:24.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "recipe\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "recipe\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:29:22.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UploadRecipeModel.cs",
+              "DocumentMoniker": "C:\\internship\\recipe\\recipe\\Models\\UploadRecipeModel.cs",
+              "RelativeDocumentMoniker": "recipe\\Models\\UploadRecipeModel.cs",
+              "ToolTip": "C:\\internship\\recipe\\recipe\\Models\\UploadRecipeModel.cs",
+              "RelativeToolTip": "recipe\\Models\\UploadRecipeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:11:21.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
